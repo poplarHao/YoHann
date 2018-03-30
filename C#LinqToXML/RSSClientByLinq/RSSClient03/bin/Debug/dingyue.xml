@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <channel name="国内新闻">
+    <name>国内新闻</name>
+    <link>http://news.qq.com/newsgn/rss_newsgn.xml</link>
+  </channel>
+  <channel name="国际新闻">
+    <name>国际新闻</name>
+    <link>http://news.qq.com/newsgj/rss_newswj.xml</link>
+  </channel>
+  <channel name="社会新闻">
+    <name>社会新闻</name>
+    <link>http://news.qq.com/newssh/rss_newssh.xml</link>
+  </channel>
+  <channel name="军事">
+    <name>军事</name>
+    <link>http://news.qq.com/milite/rss_milit.xml</link>
+  </channel>
+  <channel name="电影">
+    <name>电影</name>
+    <link>http://ent.qq.com/movie/rss_movie.xml</link>
+  </channel>
+</config>

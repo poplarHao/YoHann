@@ -1,0 +1,10 @@
+C:\Users\YoHann\Desktop\RSSClient03\RSSClient03\bin\Debug\RSSClient03.exe.config
+C:\Users\YoHann\Desktop\RSSClient03\RSSClient03\bin\Debug\RSSClient03.exe
+C:\Users\YoHann\Desktop\RSSClient03\RSSClient03\bin\Debug\RSSClient03.pdb
+C:\Users\YoHann\Desktop\RSSClient03\RSSClient03\obj\Debug\RSSClientByLinQ.csprojResolveAssemblyReference.cache
+C:\Users\YoHann\Desktop\RSSClient03\RSSClient03\obj\Debug\RSSClient03.Form1.resources
+C:\Users\YoHann\Desktop\RSSClient03\RSSClient03\obj\Debug\RSSClient03.Properties.Resources.resources
+C:\Users\YoHann\Desktop\RSSClient03\RSSClient03\obj\Debug\RSSClientByLinQ.csproj.GenerateResource.Cache
+C:\Users\YoHann\Desktop\RSSClient03\RSSClient03\obj\Debug\RSSClientByLinQ.csproj.CoreCompileInputs.cache
+C:\Users\YoHann\Desktop\RSSClient03\RSSClient03\obj\Debug\RSSClient03.exe
+C:\Users\YoHann\Desktop\RSSClient03\RSSClient03\obj\Debug\RSSClient03.pdb
