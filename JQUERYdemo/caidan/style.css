@@ -1,0 +1,37 @@
+﻿ul, li {
+    list-style: none;
+}
+ul {
+    padding:0px;
+    margin:0px;
+}
+.main,.hmain{
+    background-image:url("001.png");
+    background-repeat:repeat-x;
+    width:120px;
+}
+li{
+    background-color:#EEEEEE;
+}
+a {
+    text-decoration: none;
+    padding-left: 20px;
+    display:block;
+    padding-top:3px;
+    padding-bottom:3px;
+}
+.main a,.hmain a {
+    color: white;
+    background-image: url("002.jpg");
+    background-repeat: no-repeat;
+    background-size:16px 19px;
+    background-position:left center;
+}
+.main li a,.hmain li a{
+    color:black;
+    background-image:none;
+}
+.hmain{
+    float:left;
+    margin-right:1px;
+}
