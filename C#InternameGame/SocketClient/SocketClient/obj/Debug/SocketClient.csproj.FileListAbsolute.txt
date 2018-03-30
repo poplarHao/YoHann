@@ -1,0 +1,10 @@
+C:\Users\YH1998\Desktop\C#\SocketClient\SocketClient\bin\Debug\SocketClient.exe.config
+C:\Users\YH1998\Desktop\C#\SocketClient\SocketClient\bin\Debug\SocketClient.exe
+C:\Users\YH1998\Desktop\C#\SocketClient\SocketClient\bin\Debug\SocketClient.pdb
+C:\Users\YH1998\Desktop\C#\SocketClient\SocketClient\obj\Debug\SocketClient.csprojResolveAssemblyReference.cache
+C:\Users\YH1998\Desktop\C#\SocketClient\SocketClient\obj\Debug\SocketClient.Form1.resources
+C:\Users\YH1998\Desktop\C#\SocketClient\SocketClient\obj\Debug\SocketClient.Properties.Resources.resources
+C:\Users\YH1998\Desktop\C#\SocketClient\SocketClient\obj\Debug\SocketClient.csproj.GenerateResource.Cache
+C:\Users\YH1998\Desktop\C#\SocketClient\SocketClient\obj\Debug\SocketClient.csproj.CoreCompileInputs.cache
+C:\Users\YH1998\Desktop\C#\SocketClient\SocketClient\obj\Debug\SocketClient.exe
+C:\Users\YH1998\Desktop\C#\SocketClient\SocketClient\obj\Debug\SocketClient.pdb

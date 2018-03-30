@@ -1,0 +1,10 @@
+C:\Users\YH1998\Desktop\C#\GameServerFinal\GameServerFinal\bin\Debug\GameServerFinal.exe.config
+C:\Users\YH1998\Desktop\C#\GameServerFinal\GameServerFinal\bin\Debug\GameServerFinal.exe
+C:\Users\YH1998\Desktop\C#\GameServerFinal\GameServerFinal\bin\Debug\GameServerFinal.pdb
+C:\Users\YH1998\Desktop\C#\GameServerFinal\GameServerFinal\obj\Debug\GameServerFinal.csprojResolveAssemblyReference.cache
+C:\Users\YH1998\Desktop\C#\GameServerFinal\GameServerFinal\obj\Debug\GameServerFinal.Form1.resources
+C:\Users\YH1998\Desktop\C#\GameServerFinal\GameServerFinal\obj\Debug\GameServerFinal.Properties.Resources.resources
+C:\Users\YH1998\Desktop\C#\GameServerFinal\GameServerFinal\obj\Debug\GameServerFinal.csproj.GenerateResource.Cache
+C:\Users\YH1998\Desktop\C#\GameServerFinal\GameServerFinal\obj\Debug\GameServerFinal.csproj.CoreCompileInputs.cache
+C:\Users\YH1998\Desktop\C#\GameServerFinal\GameServerFinal\obj\Debug\GameServerFinal.exe
+C:\Users\YH1998\Desktop\C#\GameServerFinal\GameServerFinal\obj\Debug\GameServerFinal.pdb

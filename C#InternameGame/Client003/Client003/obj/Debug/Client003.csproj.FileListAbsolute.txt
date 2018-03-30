@@ -1,0 +1,12 @@
+C:\Users\YH1998\Desktop\C#\Client003\Client003\bin\Debug\Client003.exe.config
+C:\Users\YH1998\Desktop\C#\Client003\Client003\bin\Debug\Client003.exe
+C:\Users\YH1998\Desktop\C#\Client003\Client003\bin\Debug\Client003.pdb
+C:\Users\YH1998\Desktop\C#\Client003\Client003\obj\Debug\Client003.csprojResolveAssemblyReference.cache
+C:\Users\YH1998\Desktop\C#\Client003\Client003\obj\Debug\Client003.Form1.resources
+C:\Users\YH1998\Desktop\C#\Client003\Client003\obj\Debug\Client003.Form2.resources
+C:\Users\YH1998\Desktop\C#\Client003\Client003\obj\Debug\Client003.Properties.Resources.resources
+C:\Users\YH1998\Desktop\C#\Client003\Client003\obj\Debug\Client003.csproj.GenerateResource.Cache
+C:\Users\YH1998\Desktop\C#\Client003\Client003\obj\Debug\Client003.csproj.CoreCompileInputs.cache
+C:\Users\YH1998\Desktop\C#\Client003\Client003\obj\Debug\Client003.exe
+C:\Users\YH1998\Desktop\C#\Client003\Client003\obj\Debug\Client003.pdb
+C:\Users\YH1998\Desktop\C#\Client003\Client003\obj\Debug\Client003.Resource1.resources
